@@ -1,6 +1,6 @@
 # Pizza-Dataset-Data-Analysis
 
-![BA](https://github.com/ruggedx220/British-Airways-Customer-Reviews-Project/blob/main/britishairways_a00c96259db3d_thumb.jpg) 
+![pizza](https://github.com/ruggedx220/Pizza-Dataset-Data-Analysis/blob/main/pizza-slice.png) 
 
 # Project Description 
 This project involves a deep-dive analysis of a pizza sales dataset involves several steps to gain insights into sales patterns, customer preferences, and other relevant aspects. Below is a step-by-step process for conducting data analysis on a pizza sales dataset:
