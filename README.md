@@ -33,3 +33,6 @@ pizza_name: The name or label of the pizza. It is likely a human-readable identi
 
 # Dashboard Visualisation
 The visualisation segment of this project was implemented in Power-BI. Including methods like Data Transformation, Create Relationships and Data Modelling.
+
+![Dashboard](https://github.com/ruggedx220/Pizza-Dataset-Data-Analysis/blob/main/Screenshot%202023-12-07%20224842.png) 
+
