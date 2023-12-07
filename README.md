@@ -4,7 +4,7 @@
 
 # Project Description 
 This project involves a deep-dive analysis of a pizza sales dataset involves several steps to gain insights into sales patterns, customer preferences, and other relevant aspects. Below is a step-by-step process for conducting data analysis on a pizza sales dataset:
-pizza_id: Unique identifier for each pizza. This is likely a reference or primary key for the pizzas in the dataset.
+pizza_id: Unique identifier for each pizza. 
 
 order_id: Unique identifier for each pizza order. Multiple pizzas can belong to the same order, as indicated by sharing the same order_id.
 
